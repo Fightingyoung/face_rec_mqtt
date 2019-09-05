@@ -1,0 +1,12 @@
+*.pyc
+models/
+train_data/
+dist/
+build/
+face_classification/*.pyc
+face_classification/src/visualizations.py
+face_classification/*.pkl
+face_classification/src/utils/get_gender_faces.py
+face_classification/src/train_emotion_classifier_transfer_learning.py
+face_classification/*.log
+face_classification/trained_models/
